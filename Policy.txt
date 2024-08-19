@@ -1,0 +1,57 @@
+Privacy Policy
+
+Effective Date: [Insert Date]
+
+1. Introduction
+
+This Privacy Policy describes how [Your Company Name] ("we," "us," or "our") collects, uses, and shares personal data when you use our application ("App") to automatically upload videos and photos to Instagram and modify captions. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
+
+2. Information We Collect
+
+Account Information: We collect information associated with your Instagram and Facebook accounts, such as your username, user ID, and email address.
+Media Content: We collect the photos and videos you choose to upload, along with any associated metadata.
+Caption Data: We collect and modify captions associated with your uploaded media as per the functionalities of our App.
+Usage Data: We may collect information about how you use our App, including interaction logs, device information, and IP address.
+3. How We Use Your Information
+
+We use the information we collect to:
+
+Automatically upload selected media content to your Instagram account.
+Modify captions associated with your media according to your settings.
+Provide and improve our services, including troubleshooting and user support.
+Comply with legal obligations and enforce our terms and policies.
+4. Sharing Your Information
+
+We may share your information with:
+
+Third-Party Service Providers: We may share your data with third-party providers who assist us in operating our App, such as hosting services or API providers (e.g., Facebook and Instagram API). These providers have access to your data only to perform tasks on our behalf and are obligated to protect it.
+Legal Compliance: We may disclose your information to comply with legal requirements, enforce our terms, or protect the rights, property, or safety of our users or others.
+5. Data Security
+
+We implement reasonable security measures to protect your data from unauthorized access, alteration, disclosure, or destruction. However, no internet or email transmission is ever fully secure or error-free. Please be aware that you use our App at your own risk.
+
+6. Your Rights
+
+You have the following rights regarding your personal information:
+
+Access and Correction: You can request access to your personal data and correct any inaccuracies.
+Deletion: You can request the deletion of your personal data from our systems.
+Opt-Out: You may opt out of certain data processing activities by adjusting your account settings or contacting us directly.
+To exercise these rights, please contact us at [Your Contact Email].
+
+7. Cookies and Tracking Technologies
+
+Our App may use cookies or similar technologies to enhance user experience and collect usage data. You can manage your cookie preferences through your browser settings.
+
+8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Effective Date." We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information.
+
+9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+[Your Company Name]
+[Your Contact Email]
+[Your Company Address]
+
