@@ -1,10 +1,10 @@
 Privacy Policy
 
-Effective Date: [Insert Date]
+Effective Date: 01.08.2024
 
 1. Introduction
 
-This Privacy Policy describes how [Your Company Name] ("we," "us," or "our") collects, uses, and shares personal data when you use our application ("App") to automatically upload videos and photos to Instagram and modify captions. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
+This Privacy Policy describes how ECM Agency ("we," "us," or "our") collects, uses, and shares personal data when you use our application ("App") to automatically upload videos and photos to Instagram and modify captions. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
 
 2. Information We Collect
 
@@ -37,7 +37,7 @@ You have the following rights regarding your personal information:
 Access and Correction: You can request access to your personal data and correct any inaccuracies.
 Deletion: You can request the deletion of your personal data from our systems.
 Opt-Out: You may opt out of certain data processing activities by adjusting your account settings or contacting us directly.
-To exercise these rights, please contact us at [Your Contact Email].
+To exercise these rights, please contact us at elitecreatorsmanagement@gmail.com.
 
 7. Cookies and Tracking Technologies
 
@@ -51,7 +51,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
-[Your Company Name]
-[Your Contact Email]
-[Your Company Address]
+ECM Agency
+elitecreatorsmanagement@gmail.com	
+
 

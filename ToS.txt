@@ -1,6 +1,6 @@
 Terms of Service
 
-Effective Date: [Insert Date]
+Effective Date: 01.08.2024
 
 1. Introduction
 
@@ -8,7 +8,7 @@ Welcome to ECM Agency. By using our application ("App"), which allows you to aut
 
 2. Eligibility
 
-You must be at least 13 years old and have a valid Instagram or Facebook account to use our App. By using our App, you represent and warrant that you meet these requirements.
+You must be at least 18 years old and have a valid Instagram or Facebook account to use our App. By using our App, you represent and warrant that you meet these requirements.
 
 3. User Responsibilities
 
@@ -49,5 +49,4 @@ ECM Agency reserves the right to modify these Terms at any time. Changes will be
 If you have any questions about these Terms, please contact us at:
 
 ECM Agency
-[Your Contact Email]
-[Your Company Address]
+elitecreatorsmanagement@gmail.com
